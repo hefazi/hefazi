@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mohammad!
 
-<!--
-**hefazi/hefazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and always eager to learn and explore new technologies. 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: Python, JavaScript, Java, C++
+- **Web Development**: HTML, CSS, React, Node.js, Next.js, Laravel, NestJS
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **Tools & Platforms**: Git, Docker, AWS, GitHub Actions, RabbitMQ
+- **Architecture**: Microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced React patterns
+- Cloud computing with AWS
+- Machine Learning with Python
+
+## 📈 GitHub Stats
+![Hefazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hefazi&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/hefazi/)
+- [Twitter](https://twitter.com/hefazi)
+
+Thanks for visiting my profile, and feel free to check out my repositories!
